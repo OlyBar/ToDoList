@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956471968114",
+    "firebase_url": "https://to-do-list-8b1d1.firebaseio.com",
+    "project_id": "to-do-list-8b1d1",
+    "storage_bucket": "to-do-list-8b1d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956471968114:android:0812914fb2af8110",
+        "android_client_info": {
+          "package_name": "com.appsbyolympia.olympiabardis.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956471968114-cbe9030dfuga97imckv8u89fjftcdbfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsbyolympia.olympiabardis.todolist",
+            "certificate_hash": "f106c6e006d9c3ef1d9b31dbec83031f890c7ef3"
+          }
+        },
+        {
+          "client_id": "956471968114-tpg0mpag8hiakho551jobqqhf4jphsmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPo6rS4mjhuAHHG4diNIvvHS974Tvgh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956471968114-tpg0mpag8hiakho551jobqqhf4jphsmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
